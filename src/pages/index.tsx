@@ -85,6 +85,7 @@ export default function Index() {
               </Link>
             </li>
             <li>
+              <h2>Resources</h2>
               <Link href="/primitives/image-cdn/remote">Remote images</Link>
             </li>
           </ul>
